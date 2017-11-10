@@ -31,5 +31,7 @@ public class Immutability {
         arrayB.set(0, new Integer (5));
         pr("arrayA: ",arrayA);
         pr("arrayB: ",arrayB);
+
+        pr("asd", "dsa");
     }
 }
